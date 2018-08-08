@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/denverdino/aliyungo/dns"
 	"github.com/denverdino/aliyungo/common"
-	"local/ddns/ifconfig"
+	"github.com/RollingBack/ddns/ifconfig"
 	"flag"
 	"os"
 	"fmt"
