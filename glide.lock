@@ -1,0 +1,6 @@
+hash: 07a8eaa5c3cf586bd6d66447fce863a98b0477a442f1400ab80acb20a2a9ea06
+updated: 2018-08-08T10:42:01.4158679+08:00
+imports:
+- name: github.com/denverdino/aliyungo
+  version: d98ca8599d8e7b6913c1a5e7dbb2066739d0cd2a
+testImports: []

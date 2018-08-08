@@ -1,0 +1,3 @@
+package: local/ddns
+import:
+- package: github.com/denverdino/aliyungo
